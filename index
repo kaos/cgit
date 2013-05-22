@@ -12,8 +12,8 @@ cgit quick facts
 [C]:       http://en.wikipedia.org/wiki/C_%28programming_language%29
 [GPLv2]:   http://www.gnu.org/licenses/gpl-2.0.html
 [zx2c4]:   http://git.zx2c4.com/cgit/
-[list]:    mailto:cgit@hjemli.net
-[archive]: http://hjemli.net/pipermail/cgit/
+[list]:    mailto:cgit@lists.zx2c4.com
+[archive]: http://lists.zx2c4.com/pipermail/cgit/
 [gmane]:   http://dir.gmane.org/gmane.comp.version-control.cgit
 [faq]:     faq
 
@@ -34,29 +34,14 @@ features
  * understands gitweb.owner in git config files
 
 
-branches
---------
- * [stable]: fixes for the previous release
- * [master]: features for the next release
- * [wip]: bleeding-edge stuff, frequently rebased
- * [wiki]: the info found on this page
-
-[stable]:  http://hjemli.net/git/cgit/log/?h=stable
-[master]:  http://hjemli.net/git/cgit/log/
-[wip]:     http://hjemli.net/git/cgit/log/?h=wip
-[wiki]:    http://hjemli.net/git/cgit/log/?h=wiki
-
-
 source code
 -----------
  * download current or past [releases]
- * clone the repo using git or http protocol:
-   * git://hjemli.net/pub/git/cgit
-   * http://hjemli.net/git/cgit
+ * clone the repo: git://git.zx2c4.com/cgit
  * see the [README] for build instructions
 
-[releases]: http://hjemli.net/git/cgit/refs/tags
-[README]:   http://hjemli.net/git/cgit/tree/README
+[releases]: http://git.zx2c4.com/cgit/refs/tags
+[README]:   http://git.zx2c4.com/cgit/tree/README
 
 
 packages
